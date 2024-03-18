@@ -1,0 +1,12 @@
+.main-header {
+  background-color: rgb(233, 233, 233);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.container {
+  margin-block: 1.25rem;
+}

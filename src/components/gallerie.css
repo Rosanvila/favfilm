@@ -1,0 +1,10 @@
+.gallery {
+  display: flex;
+  justify-content: center;
+  grid-area: affiche;
+  border-radius: 25px;
+}
+
+.gallery > img {
+  width: 100%;
+}
